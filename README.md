@@ -1,5 +1,4 @@
 # Cloning-Facial-Expression
-Cloning Facial Expression (Photo-to-Video) based on "first-order-model" repository.
 ![example](example.png)
 
 The videos on the left show the driving videos. The first row on the right for each dataset shows the source videos. The bottom row contains the animated sequences with motion transferred from the driving video and object taken from the source image.
