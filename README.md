@@ -1,4 +1,4 @@
-# Cloning-Facial-Expression
+# Face-Image-Motion-Model
 ![example](example.png)
 
 **Check how it works on Google Colab:**
