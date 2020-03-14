@@ -1,4 +1,7 @@
 # Face-Image-Motion-Model
+
+**Attention. A pre-trained model is downloaded from my cloud (which has its limits). Due to the large number of users, the necessary files are temporarily frozen. Therefore, the algorithm may throw an error.**
+
 ![example](example.png)
 
 **Check how it works on Google Colab:**
