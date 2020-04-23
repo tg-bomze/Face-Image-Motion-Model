@@ -18,6 +18,7 @@ The videos on the left show the driving videos. The first row on the right for e
 **In addition, there are:**
 - [VFIASC](https://github.com/sniklaus/sepconv-slomo)
 - [ESRGAN](https://github.com/xinntao/ESRGAN)
+- [EDVR](https://github.com/xinntao/EDVR) (new)
 
 **Result Example:**
 
