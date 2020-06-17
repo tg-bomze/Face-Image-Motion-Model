@@ -10,6 +10,8 @@
 
 **Based on:** [first-order-model](https://github.com/AliaksandrSiarohin/first-order-model)
 
+**Special thanks for the help in creating Colabs I express to [JamesCullum](https://github.com/JamesCullum)**
+
 The videos on the left show the driving videos. The first row on the right for each dataset shows the source videos. The bottom row contains the animated sequences with motion transferred from the driving video and object taken from the source image.
 ![teaser](https://github.com/AliaksandrSiarohin/first-order-model/raw/master/sup-mat/vox-teaser.gif)
 
